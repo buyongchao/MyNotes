@@ -1,4 +1,4 @@
-* [个人笔记简介](README.md)
+* [Coder笔记简介](README.md)
 
 * [常用标签地址](GoodLink.md)
 
@@ -174,6 +174,7 @@
 	* [Elasticsearch查询命令](常用命令总结/Elasticsearch查询命令.md)
 	* [Elasticsearch设置命令](常用命令总结/Elasticsearch设置命令.md)
 	* [Git](常用命令总结/Git.md)
+	* [Git-补充](常用命令总结/Git-补充.md)
 	* [Kafka](常用命令总结/Kafka.md)
 	* [Linux-常用命令](常用命令总结/Linux-常用命令.md)
 	* [Linux-基础命令](常用命令总结/Linux-基础命令.md)
