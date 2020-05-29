@@ -12,7 +12,7 @@
 
 > :man: KinseyGe(:email: 692295951@qq.com)
 
-> :man: buyongchao(:email: 1028633173@qq.com)
+> :man: SunKindoms(:email: 1028633173@qq.com)
 
 # 转载分享
 
